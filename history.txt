@@ -1,0 +1,16 @@
+  385  git checkout PT21
+  386  git switch master
+  387  git switch main
+  388  git pull
+  389  git branch PT21
+  390  git switch PT21
+  391  git merge main
+  392  git merge master
+  393  git add .
+  394  git commit -m UpdatesFromMaster
+  395  git push -u origin PT21
+  396  git switch main
+  397  git pull
+  398  git branch -D PT21
+  399  git add .
+  400  git commit -m "paskutinis commitas"

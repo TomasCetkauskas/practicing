@@ -1,0 +1,12 @@
+* f977d03 paskutinis commitas
+*   93dbc39 Merge pull request #1 from TomasCetkauskas/PT21
+|\  
+| *   cacddba Merge branch 'main' into PT21
+| |\  
+| |/  
+|/|   
+* | e5daf85 Update studentas.txt
+| * d3e8452 UpdatesFromMaster
+|/  
+* 0de6b0d IrasiauPavarde
+* c9e366d IrasiauVarda
